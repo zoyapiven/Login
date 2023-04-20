@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  login
+
+  Created by Miroslav Deryuga on 17.04.2023.
+  
+*/
+"Error" = "Ошибка";
+"Wrong Password or E-mail" = "Неправильный Пароль или E-mail";
+"OK" = "ОК";
+//hjhk
